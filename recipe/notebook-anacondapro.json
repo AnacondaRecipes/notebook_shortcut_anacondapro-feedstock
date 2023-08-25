@@ -1,5 +1,5 @@
 {
-    "menu_name": "Anaconda${PY_VER} ${DISTRIBUTION}",
+    "menu_name": "Anaconda${PY_VER} (${DISTRIBUTION_NAME})",
     "menu_items":[
     {
         "name": "Jupyter Notebook",
